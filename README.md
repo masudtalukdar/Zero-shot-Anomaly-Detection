@@ -20,4 +20,4 @@ Download the dataset below:
 cd generate_dataset_json
 python visa.py
 ```
-Select the corresponding script and run it (we provide all scripts for datasets that AnomalyCLIP reported). The generated JSON stores all the information that AnomalyCLIP needs.
+
