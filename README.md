@@ -21,3 +21,4 @@ cd generate_dataset_json
 python visa.py
 ```
 
+### This is a test project that I created as part of a Deep Learning Final Exam hosted by [Prof. Marco Cristani](https://scholar.google.com/citations?user=LbgTPRwAAAAJ&hl=en)
