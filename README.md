@@ -3,9 +3,7 @@
 >
 
 ## Introduction 
-In this project, I implemented and evaluated AnomalyCLIP, a novel object-agnostic prompt learning method for zero-shot anomaly detection. The primary goal was to reproduce the results presented in the research paper in the Table 1 using the VisA dataset. Due to computational constraints, I focused on a subset of the dataset, specifically four classes out of the original twelve
-
-
+In this project, I implemented and evaluated AnomalyCLIP, a novel object-agnostic prompt learning method for zero-shot anomaly detection. The primary goal was to reproduce the results presented in the research paper in the Table 1 using the VisA dataset. Due to computational constraints, I focused on a subset of the dataset, specifically four classes out of the original twelve.
 
 ## How to Run
 ### Prepare your dataset
